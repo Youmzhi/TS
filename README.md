@@ -3,7 +3,6 @@
 ```bash
 
 # Locally in your project.
-npm i vant -S
 npm install -D typescript
 npm install -D ts-node
 
