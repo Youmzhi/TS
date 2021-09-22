@@ -1,6 +1,9 @@
-Installation
+## Install
+
+```bash
 
 # Locally in your project.
+npm i vant -S
 npm install -D typescript
 npm install -D ts-node
 
@@ -10,3 +13,5 @@ npm install -g ts-node
 
 # Depending on configuration, you may also need these
 npm install -D tslib @types/nodes
+
+```
